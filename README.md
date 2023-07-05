@@ -16,7 +16,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ronmon80&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronmon80&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p > 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
@@ -34,8 +33,9 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=ronmon80&icon=9&color=3)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronmon80&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=ronmon80&icon=9&color=3)](https://visitcount.itsvg.in)
 <p> <img src="https://komarev.com/ghpvc/?username=ronmon80&label=Profile%20views&color=0e75b6&style=flat" alt="ronmon80" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
