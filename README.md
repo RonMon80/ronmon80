@@ -9,9 +9,7 @@
 <h4 align="left">I'm currently in a career transition to technology, seeking opportunities to work as a developer and gain valuable experience.</h4>
 
 ###
-
-<p align="left">📍 São Paulo, Brazil<br>✉️ Reach me at ronalde.monezzi@gmail.com<br>🚀 Freelancing<br>📚 Focusing on React<br>🤝 Open to collaborating on interesting and immersive projects<br>🧠 Always open to learning and improving myself<br>🎷 I love to play my tenor saxophone</p>
-
+<p align="left">📍 São Paulo, Brazil<br>✉️ Reach me at <a href="mailto:ronalde.monezzi@gmail.com">ronalde.monezzi@gmail.com</a><br>🚀 Freelancing<br>📚 Focusing on React<br>🤝 Open to collaborating on interesting and immersive projects<br>🧠 Always open to learning and improving myself<br>🎷 I love to play my tenor saxophone</p>
 ###
 
 <div align="left">
