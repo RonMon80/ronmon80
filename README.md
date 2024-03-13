@@ -4,7 +4,7 @@
 
 <h1 align="left">👋 I'm Ronalde Monezzi</h1>
 
-###
+
 
 <h4 align="left">I'm currently in a career transition to technology, seeking opportunities to work as a developer and gain valuable experience.</h4>
 
