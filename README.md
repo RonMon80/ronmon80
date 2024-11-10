@@ -1,6 +1,5 @@
 <img align="right" height="200" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"  />
 
-###
 
 <h1 align="left">👋 I'm Ronalde Monezzi</h1>
 
