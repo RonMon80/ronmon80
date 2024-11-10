@@ -1,9 +1,9 @@
-<img align="right" height="200" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"  />
 
 
 <h1 align="left">👋 I'm Ronalde Monezzi</h1>
 
 
+<img align="right" height="200" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"  />
 
 <h4 align="left">I'm currently in a career transition to technology, seeking opportunities to work as a developer and gain valuable experience.</h4>
 
